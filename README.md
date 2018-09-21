@@ -12,7 +12,7 @@ Let's throw a party! The first thing we'll need is an invitation we can send to 
 1. In the `components/Invitation.js` file, create an `Invitation` React component.
 2. This component renders out an `h1` with the text `'You've been invited!'`
 3. After this `h1`, render out any children that are passed into the `Invitation` component. This allows us to customize the message.
-
+asd
 A good party also has a theme and decorations that match. Let's create a component that takes its children and adds an additional prop to them. This way we can pass in the theme to our decorations by wrapping them in this component.
 
 1. In the `components/ThemedDecorations.js` file, create a `ThemedDecorations` React component.
